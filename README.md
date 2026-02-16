@@ -2,6 +2,10 @@
 
 This assignment consists of three primary tasks: creating permanent and temporary pluggable databases (PDBs) using Oracle SQL*Plus, and utilizing the Oracle Enterprise Manager (OEM) for database management.
 
+**Repository Link:** [GitHub URL](https://github.com/obedeveloper/oracle_pdb_ass_II_29699_obed)\
+**PDB Name Created:** ob_pdb_29699\
+**Issues Encountered:** No
+
 ## Environment Used
 
 | Component          | Details                       |
