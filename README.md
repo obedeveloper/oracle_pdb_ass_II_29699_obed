@@ -10,6 +10,7 @@ This assignment consists of three primary tasks: creating permanent and temporar
 | **Database**         | Oracle 21c                   |
 | **Text Editor**      | Visual Studio Code (VS Code) |
 | **Terminal**         | Git Bash                     |
+| **Browser**          | Firefox Developer Edition    |
 
 ## Task 1: Create a New Pluggable Database
 
@@ -78,3 +79,14 @@ In this task, Oracle Enterprise Manager was used to gain insights and manage the
 ![](https://github.com/obedeveloper/oracle_pdb_ass_II_29699_obed/blob/7ec6f7de41f16ae7a583dd87a4dc3d7184fca150/screenshots/Image%202026-02-16%20at%2010.05.46(2).jpeg)
 ![](https://github.com/obedeveloper/oracle_pdb_ass_II_29699_obed/blob/7ec6f7de41f16ae7a583dd87a4dc3d7184fca150/screenshots/Image%202026-02-16%20at%2010.05.46(3).jpeg)
 ![](https://github.com/obedeveloper/oracle_pdb_ass_II_29699_obed/blob/7ec6f7de41f16ae7a583dd87a4dc3d7184fca150/screenshots/Image%202026-02-16%20at%2010.05.46(4).jpeg)
+
+## Reference
+
+- [Pluggable Databases Tutorial](https://www.youtube.com/watch?v=dPHerZHvUyk)
+- [Oracle Enterprise Manager Tutorial](https://www.youtube.com/watch?v=FgXivcsuxUA)
+
+## Integrity
+
+All sources were properly cited.\
+Implementations and analysis represent original work.\
+No AI- generated content was copied without attribution or adaptation.
